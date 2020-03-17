@@ -203,3 +203,7 @@ tdd-example.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+TrafficLight.iml
+.idea/.gitignore
+.idea/description.html
+.idea/project-template.xml
